@@ -18,4 +18,4 @@ To run this Program, we need to have Python installed on your system.
 5. The program will perform the search using the Google Custom Search API and display the links/outputs.
 6. You can create Custon Search Engine using Programmable Search Engine website 
 ## Configuration
-If you would like to use this script for some other Custom Search Engine please configure the `SEARCH_ENGINE_ID` variable in the `main.py` file with your search engine ID.
+If you would like to use this script for some other Custom Search Engine please configure the Delete `waaCredentials.txt` and `Encrypted_Credentials.txt` in Present Working Directory and run the `main.py` file with your Api_key and search engine ID and proceed.  
