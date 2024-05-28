@@ -3,7 +3,7 @@ This Python script allows you to securely store API key and Custom Search Engine
 ## Installation  
 To run this Program, we need to have Python installed on your system.
    1. Clone this repository to your local machine:
-      `git clone https://github.com/B1N4RY-P4R45173/Custom-Search-Engine.git`
+      `https://github.com/4bh7n4v/Customised-Search-Engine/`
    2. Naviage to the directory:  
        `cd Custom-Search-Engine`  
    3. Install the requirements given in requirements.txt:   
